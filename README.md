@@ -9,6 +9,9 @@
      4. Modular Architecture: Organizes code into reusable functions and modules, promoting maintainability and scalability.
      5. Cross-Browser Compatibility: Ensures compatibility across major web browsers to support a wide range of users.
 
+![image](https://github.com/uttamt09/Cash-Register-System/assets/139229602/7b85da21-1591-467b-a2d4-45716118c615)
+
+
 # Technologies Used
   1. HTML: Structure and layout.
   2. CSS: Styling and responsiveness.
